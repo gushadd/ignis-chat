@@ -27,7 +27,7 @@
 			</button>
 		</aside>
 
-		<main class="min-w-0 w-full flex-1 overflow-y-auto bg-base-200 pb-16 md:h-full md:min-h-0 md:p-6 md:pb-6 lg:p-8">
+		<main class="min-w-0 w-full flex-1 overflow-y-auto bg-base-200 pb-16 md:h-full md:min-h-0 md:p-6 md:pb-6">
 			<RouterView />
 		</main>
 
